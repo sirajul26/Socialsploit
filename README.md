@@ -1,13 +1,13 @@
 # SocialSploit 
      Installation
      pkg install -y git
-     git clone https://github.com/Cesar-Hack-Gray/SocialSploit
-     cd SocialSploit
+     git clone https://github.com/sirajul26/Socialsploit.git
+     cd Socialsploit
      ls
      bash install.sh
      ./Sploit
 # Installation 
-##### https://youtu.be/z9FmwGOo3A8
+##### https://youtu.be/5tIcJqfIu6k
 # Example
 ![CollageMaker_20191115_193409432](https://user-images.githubusercontent.com/46208706/68985841-31a1a500-07df-11ea-9d0c-abff6a2f8c49.jpg)
 
@@ -21,7 +21,7 @@
 ![Screenshot_20191114-181630_Termux~01](https://user-images.githubusercontent.com/46208706/68985817-f8693500-07de-11ea-8a64-592468ed1440.jpg)
 # Mi redes sociales
     YouTube  : http://youtube.com/c/CésarHackGray_Y_Miickeyy
-    Telegram : https://t.me/CesarGray
-    Facebook : Cesar Hack Gray
-    Mi web   : https://www.CesarHackGray.com 
-# Disfruta -> SocialSploit by @CesarHackGray
+    Whatsapp : https://wa.me/8801629744516
+    Facebook : Facebook.com/sirajul36
+ 
+# Disfruta -> SocialSploit by @sirajul26
